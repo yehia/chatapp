@@ -1,3 +1,3 @@
-# chatapp
+# TechChat
 
 ChatApp feito em Flutter.
